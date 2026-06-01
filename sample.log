@@ -1,0 +1,6 @@
+INFO service started
+ERROR database connection failed
+WARNING high memory usage
+ERROR redis timeout
+CRITICAL disk is full
+INFO service stopped
