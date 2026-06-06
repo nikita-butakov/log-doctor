@@ -110,7 +110,7 @@ async def analyze(
             ai_explanation = explain_with_ai(stats, last_count, level_filter)
             ai_html = f"""
             <h2>AI Explanation</h2>
-            <pre>{ai_explanation}</pre>
+            <pre style="white-space: pre-wrap; background: #f4f4f4; padding: 12px; border-radius: 6px;">{ai_explanation}</pre>
             """
         except Exception as error:
             ai_html = f"""
