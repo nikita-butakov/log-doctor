@@ -13,6 +13,10 @@ It can find `ERROR`, `WARNING`, and `CRITICAL` messages, show a short summary, a
 * Optional AI explanation for found problems
 * Docker-ready
 
+![Demo1](./demo/2.JPG)
+
+![Demo2](./demo/1.JPG)
+
 ## Run locally
 
 Install dependencies:
